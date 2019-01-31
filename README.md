@@ -1,5 +1,7 @@
 # Cucumber.js
 
+**This is a copy (not fork) of the npm cucumber module that supports And and But operators**
+
 [![OpenCollective](https://opencollective.com/cucumber/backers/badge.svg)](https://opencollective.com/cucumber) 
 [![OpenCollective](https://opencollective.com/cucumber/sponsors/badge.svg)](https://opencollective.com/cucumber)
 
